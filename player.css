@@ -1,0 +1,11 @@
+.player1, .player2, .player3{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    text-align: center;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+}
